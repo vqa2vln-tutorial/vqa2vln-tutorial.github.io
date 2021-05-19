@@ -256,6 +256,12 @@ color: #ECEBEB;
 	text-align: center;
 }
 
+@media all and (max-width:900px), (max-device-width:900px){
+.intro-header{
+	background: url(../img/intro/intro6_small.jpeg) no-repeat center center;
+	}
+}
+
 .intro-caption {
 	position: absolute;
 	bottom: 0;
